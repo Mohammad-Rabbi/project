@@ -1,0 +1,12 @@
+:root{
+ --primary:#3DCFD3;
+ --dark:#161616;
+ --pure:#ffffff;
+ --ternary:#898989;
+ --light:#f2f2f2;
+}
+
+@media screen and (max-width:400px){
+  
+ body{background:red;}
+}
